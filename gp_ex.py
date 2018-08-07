@@ -1,3 +1,11 @@
+# Uncleaned example of GP-select method used for all sparse coding models in the paper:
+#
+#    GP-select: Accelerating EM using adaptive subspace preselection, 
+#    in Neural Computation 28(8), 2017
+#
+# Shelton, Oct. 2014
+
+
 from __future__ import division
 
 import sys
